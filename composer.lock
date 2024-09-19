@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5ef6f2c7b8a974381837bfd6a7955df4",
+    "content-hash": "a0001555e577bfc100a42a1bdeb95730",
     "packages": [
         {
             "name": "brick/math",
@@ -5215,16 +5215,16 @@
         },
         {
             "name": "laravel/laravel",
-            "version": "v8.6.12",
+            "version": "8.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/laravel.git",
-                "reference": "843a4f81eb25b88b225a89d75a2d3c274e81be6b"
+                "reference": "78ad150a947f6677d9cb4e3eb9a257d312fe14c3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/laravel/zipball/843a4f81eb25b88b225a89d75a2d3c274e81be6b",
-                "reference": "843a4f81eb25b88b225a89d75a2d3c274e81be6b",
+                "url": "https://api.github.com/repos/laravel/laravel/zipball/78ad150a947f6677d9cb4e3eb9a257d312fe14c3",
+                "reference": "78ad150a947f6677d9cb4e3eb9a257d312fe14c3",
                 "shasum": ""
             },
             "require": {
@@ -5266,9 +5266,9 @@
                 "laravel"
             ],
             "support": {
-                "source": "https://github.com/laravel/laravel/tree/v8.6.12"
+                "source": "https://github.com/laravel/laravel/tree/8.x"
             },
-            "time": "2022-04-12T13:37:49+00:00"
+            "time": "2022-04-12T15:09:15+00:00"
         },
         {
             "name": "laravel/sanctum",
@@ -5546,16 +5546,16 @@
         },
         {
             "name": "nikic/php-parser",
-            "version": "v5.1.0",
+            "version": "v5.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "683130c2ff8c2739f4822ff7ac5c873ec529abd1"
+                "reference": "23c79fbbfb725fb92af9bcf41065c8e9a0d49ddb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/683130c2ff8c2739f4822ff7ac5c873ec529abd1",
-                "reference": "683130c2ff8c2739f4822ff7ac5c873ec529abd1",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/23c79fbbfb725fb92af9bcf41065c8e9a0d49ddb",
+                "reference": "23c79fbbfb725fb92af9bcf41065c8e9a0d49ddb",
                 "shasum": ""
             },
             "require": {
@@ -5598,9 +5598,9 @@
             ],
             "support": {
                 "issues": "https://github.com/nikic/PHP-Parser/issues",
-                "source": "https://github.com/nikic/PHP-Parser/tree/v5.1.0"
+                "source": "https://github.com/nikic/PHP-Parser/tree/v5.2.0"
             },
-            "time": "2024-07-01T20:03:41+00:00"
+            "time": "2024-09-15T16:40:33+00:00"
         },
         {
             "name": "phar-io/manifest",
@@ -7599,7 +7599,7 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^7.2.5|^8.0"
+        "php": "^8.0"
     },
     "platform-dev": [],
     "plugin-api-version": "2.6.0"
